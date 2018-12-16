@@ -1,0 +1,5 @@
+¶ÑµþÍ¼	https://beta.observablehq.com/@mbostock/streamgraph-transitions
+Treemap	https://beta.observablehq.com/@mbostock/d3-treemap
+
+Stacked Graphs ¨C Geometry & Aesthetics	http://leebyron.com/streamgraph/stackedgraphs_byron_wattenberg.pdf
+Squarified Treemaps	https://www.win.tue.nl/~vanwijk/stm.pdf
